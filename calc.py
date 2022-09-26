@@ -1,5 +1,5 @@
 def add (a,b)
-x+y
+x+y+z
 def sub (a,b)
 pass
 
